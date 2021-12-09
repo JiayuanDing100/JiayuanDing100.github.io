@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Euhanna Ghadimi 
+==Jiayuan Ding 
 
 ~~~
 {}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
@@ -12,18 +12,20 @@ E-post: /euhanna/ \[@\] kth \[DOT\] se
 ~~~
 
 == About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+I'm a Ph.D. student in the Department of Computer Science and Engineering at Michigan State University. I am fortunately advised by [http://www.cse.msu.edu/~tangjili/ Prof. Jiliang Tang] in the [http://dse.cse.msu.edu/ DSE lab].
+
 
 == Research
-My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+My research interests include, but not limited to the following areas: 
+- Graph Neural Network
+- Natural Language Processing
+- Knowledge Graph
+- Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
-[research.html Find out more].
+=== News
+. 11/2021 Our GNN soltion for \[[https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration]\] wins the first place in the task of modality prediction.
+. 09/2021 Our paper \[[https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual]\] is accepted in NeurIPS 2021.
+
 === Recent Publications 
 . E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
 . E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
@@ -31,6 +33,5 @@ multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Contro
 . E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
 . E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
 
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+
+
