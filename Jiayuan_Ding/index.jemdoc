@@ -24,10 +24,29 @@ My research interests include, but not limited to the following areas:
 . 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted in NeurIPS 2021.
 
 == Recent Publications 
+
+=== Preprints and Submissions
+. [https://arxiv.org/abs/2110.06354 Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path  Generation] \n
+  *Jiayuan Ding*, Tong Xiang, Zijing Ou, Wangyang Zuo, Ruihui Zhao, Chenghua Lin, Yefeng Zheng, Bang Liu \n
+  arXiv:2110.06354
+
+. [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] \n
+  Hongchao Fang, Sicheng Wang, Meng Zhou, *Jiayuan Ding*, Pengtao Xie \n
+  arXiv:2005.12766
+
+. [https://arxiv.org/abs/2007.15066 An experimental study of the effects of position bias on emotion cause extraction] \n
+  *Jiayuan Ding*, Mayank Kejriwal \n
+  arXiv:2007.15066
+
+
+=== Conference Publications
 . [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] \n
   Xiaorui Liu, *Jiayuan Ding*, Wei Jin, Han Xu, Yao Ma, Zitao Liu, Jiliang Tang. \n
   NeurIPS 2021
 
+. [https://arxiv.org/pdf/1712.03086.pdf Flagit: A system for minimally supervised human trafficking indicator mining] \n
+  Mayank Kejriwal, *Jiayuan Ding*, Runqi Shao, Anoop Kumar, Pedro Szekely \n
+  LLD Workshop NeurIPS 2017
 
 
 
