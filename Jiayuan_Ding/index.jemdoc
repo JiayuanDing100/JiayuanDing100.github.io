@@ -20,8 +20,8 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
-. 11/2021 Our GNN soltion for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
-. 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted in NeurIPS 2021.
+- 11/2021 Our GNN soltion for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
+- 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted in NeurIPS 2021.
 
 == Recent Publications 
 
@@ -31,7 +31,7 @@ My research interests include, but not limited to the following areas:
   arXiv:2110.06354
 
 - [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] \n
-  Hongchao Fang, Sicheng Wang, Meng Zhou, *Jiayuan Ding*, Pengtao Xie \n
+  Hongchao Fang, Sicheng Wang\*, Meng Zhou\*, *Jiayuan Ding\**, Pengtao Xie \n
   arXiv:2005.12766
 
 - [https://arxiv.org/abs/2007.15066 An experimental study of the effects of position bias on emotion cause extraction] \n
