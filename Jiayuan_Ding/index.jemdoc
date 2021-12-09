@@ -22,13 +22,13 @@ My research interests include, but not limited to the following areas:
 - Knowledge Graph
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
-=== News
-. 11/2021 Our GNN soltion for \[[https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration]\] wins the first place in the task of modality prediction.
-. 09/2021 Our paper \[[https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual]\] is accepted in NeurIPS 2021.
+== News
+. 11/2021 Our GNN soltion for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
+. 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted in NeurIPS 2021.
 
-=== Recent Publications 
-. \[[https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual]\] \n
-  Xiaorui Liu, *Jiayuan Jin*, Wei Jin, Han Xu, Yao Ma, Zitao Liu, Jiliang Tang. \n
+== Recent Publications 
+. [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] \n
+  Xiaorui Liu, *Jiayuan Ding*, Wei Jin, Han Xu, Yao Ma, Zitao Liu, Jiliang Tang. \n
   NeurIPS 2021
 
 
