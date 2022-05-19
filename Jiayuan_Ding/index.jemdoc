@@ -20,6 +20,8 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
+- 05/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] is accepted to KDD 2022.
+- 04/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] is accepted to ICDE 2022.
 - 11/2021 Our GNN solution for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
 - 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted to NeurIPS 2021.
 
@@ -52,11 +54,11 @@ My research interests include, but not limited to the following areas:
 
 === Conference Publications
 - [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] \n
-  Hongzhi Wen*, *Jiayuan Ding**, Wei Jin*, Yuyin Xie, Jiliang Tang. \n
+  Hongzhi Wen\*, *Jiayuan Ding\**, Wei Jin\*, Yuyin Xie, Jiliang Tang. \n
   *KDD 2022*
 
 - [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] \n
-  *Jiayuan Ding*, Tong Xiang, Zijing Ou, Wangyang Zuo, Ruihui Zhao, Chenhua Liu, Yefeng Zheng, Bang Liu. \n
+  *Jiayuan Ding\**, Tong Xiang\*, Zijing Ou\*, Wangyang Zuo, Ruihui Zhao, Chenhua Liu, Yefeng Zheng, Bang Liu. \n
   *ICDE 2022*
 
 - [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] \n
