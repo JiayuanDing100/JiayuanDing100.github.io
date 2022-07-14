@@ -20,6 +20,7 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
+- 07/2022 Our paper [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] is accepted to TACL 2022.
 - 05/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] is accepted to KDD 2022.
 - 04/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] is accepted to ICDE 2022.
 - 11/2021 Our GNN solution for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
@@ -42,17 +43,16 @@ My research interests include, but not limited to the following areas:
 == Recent Publications 
 
 === Preprints and Submissions
-
-- [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] \n
-  Hongchao Fang, Sicheng Wang\*, Meng Zhou\*, *Jiayuan Ding\**, Pengtao Xie \n
-  arXiv:2005.12766
-
 - [https://arxiv.org/abs/2007.15066 An experimental study of the effects of position bias on emotion cause extraction] \n
   *Jiayuan Ding*, Mayank Kejriwal \n
   arXiv:2007.15066
 
 
-=== Conference Publications
+=== Conference / Journal Publications
+- [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] \n
+  Hongchao Fang, Sicheng Wang\*, Meng Zhou\*, *Jiayuan Ding\**, Pengtao Xie \n
+  *TACL 2022*
+  
 - [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] \n
   Hongzhi Wen\*, *Jiayuan Ding\**, Wei Jin\*, Yuyin Xie, Jiliang Tang. \n
   *KDD 2022*
