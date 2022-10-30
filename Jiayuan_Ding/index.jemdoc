@@ -20,6 +20,9 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
+- 10/2022 We release our Python toolkit [https://github.com/OmicsML/dance DANCE] for analyzing single-cell gene expression via deep learning! 
+- 10/2022 Our DANCE package paper is available: [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis].
+- 10/2022 Our comprehensive survey study is available: [https://arxiv.org/abs/2210.12385 Deep Learning in Single-Cell Analysis].
 - 08/2022 I am invited to serve as the PC member for AAAI 2023.
 - 07/2022 Our paper [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] is accepted to TACL 2022.
 - 06/2022 I am invited to serve as the PC member for WSDM 2023.
@@ -34,9 +37,14 @@ My research interests include, but not limited to the following areas:
 == Recent Publications 
 
 === Preprints and Submissions
+- [https://arxiv.org/abs/2210.12385 Deep Learning in Single-Cell Analysis] \n
+  Dylan Molho\*, *Jiayuan Ding\**, Zhaoheng Li and others \n
+
+- [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis] \n
+  *Jiayuan Ding\**, Hongzhi Wen\*, Wenzhuo Tang\*, Renming Liu\*, Zhaoheng Li and others \n
+
 - [https://arxiv.org/abs/2007.15066 An experimental study of the effects of position bias on emotion cause extraction] \n
   *Jiayuan Ding*, Mayank Kejriwal \n
-  arXiv:2007.15066
 
 
 === Conference / Journal Publications
