@@ -20,6 +20,7 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
+- 11/2022 Thrilled to give a talk "Graph Neural Networks in Single-Cell Analysis" at Shandong University.
 - 10/2022 We release our Python toolkit [https://github.com/OmicsML/dance DANCE] for analyzing single-cell data via deep learning! 
 - 10/2022 Our DANCE package paper is available: [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis].
 - 10/2022 Our comprehensive survey study is available: [https://arxiv.org/abs/2210.12385 Deep Learning in Single-Cell Analysis].
