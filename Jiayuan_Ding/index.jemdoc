@@ -20,7 +20,7 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
-- [01/2023] Our work [https://openreview.net/forum?id=Lnxl5pr018 Test-Time Graph Transformation] is accepted by ICLR 2023!
+- [01/2023] Our work [https://openreview.net/forum?id=Lnxl5pr018 Test-Time Graph Transformation] is accepted by ICLR 2023.
 - [01/2023] I am invited to serve as the PC member for ICML 2023.
 - [01/2023] I am invited to serve as the PC member for KDD 2023.
 - [11/2022] Thrilled to give a talk "Graph Neural Networks in Single-Cell Analysis" at Shandong University.
@@ -63,6 +63,7 @@ My research interests include, but not limited to the following areas:
 - [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] \n
   Hongzhi Wen\*, *Jiayuan Ding\**, Wei Jin\*, Yiqi Wang\*, Yuyin Xie, Jiliang Tang. \n
   *KDD 2022*
+  *The first place* in the task of modality prediction at NeurIPS’21 Single-Cell Multimodal Data Integration
 
 - [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] \n
   *Jiayuan Ding\**, Tong Xiang\*, Zijing Ou\*, Wangyang Zuo, Ruihui Zhao, Chenhua Liu, Yefeng Zheng, Bang Liu. \n
