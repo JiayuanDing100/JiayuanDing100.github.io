@@ -20,21 +20,22 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., biology and chemistry
 
 == News
-- 01/2023 I am invited to serve as the PC member for ICML 2023.
-- 01/2023 I am invited to serve as the PC member for KDD 2023.
-- 11/2022 Thrilled to give a talk "Graph Neural Networks in Single-Cell Analysis" at Shandong University.
-- 10/2022 We release our Python toolkit [https://github.com/OmicsML/dance DANCE] for analyzing single-cell data via deep learning! 
-- 10/2022 Our DANCE package paper is available: [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis].
-- 10/2022 Our comprehensive survey study is available: [https://arxiv.org/abs/2210.12385 Deep Learning in Single-Cell Analysis].
-- 08/2022 I am invited to serve as the PC member for AAAI 2023.
-- 07/2022 Our paper [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] is accepted to TACL 2022.
-- 06/2022 I am invited to serve as the PC member for WSDM 2023.
-- 05/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] is accepted to KDD 2022.
-- 04/2022 Our paper [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] is accepted to ICDE 2022.
-- 03/2022 I am invited to serve as the reviewer for NeurIPS 2022.
-- 02/2022 I am invited to serve as the PC member for CIKM 2022.
-- 11/2021 Our GNN solution for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
-- 09/2021 Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted to NeurIPS 2021.
+- [01/2023] Our work [https://openreview.net/forum?id=Lnxl5pr018 Test-Time Graph Transformation] is accepted by ICLR 2023!
+- [01/2023] I am invited to serve as the PC member for ICML 2023.
+- [01/2023] I am invited to serve as the PC member for KDD 2023.
+- [11/2022] Thrilled to give a talk "Graph Neural Networks in Single-Cell Analysis" at Shandong University.
+- [10/2022] We release our Python toolkit [https://github.com/OmicsML/dance DANCE] for analyzing single-cell data via deep learning! 
+- [10/2022] Our DANCE package paper is available: [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis].
+- [10/2022] Our comprehensive survey study is available: [https://arxiv.org/abs/2210.12385 Deep Learning in Single-Cell Analysis].
+- [08/2022] I am invited to serve as the PC member for AAAI 2023.
+- [07/2022] Our paper [https://arxiv.org/abs/2005.12766 Cert: Contrastive self-supervised learning for language understanding] is accepted by TACL 2022.
+- [06/2022] I am invited to serve as the PC member for WSDM 2023.
+- [05/2022] Our paper [https://arxiv.org/pdf/2110.06354.pdf Graph Neural Networks for Multimodal Single-Cell Data Integration] is accepted by KDD 2022.
+- [04/2022] Our paper [https://arxiv.org/pdf/2110.06354.pdf Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation] is accepted by ICDE 2022.
+- [03/2022] I am invited to serve as the reviewer for NeurIPS 2022.
+- [02/2022] I am invited to serve as the PC member for CIKM 2022.
+- [11/2021] Our GNN solution for [https://openproblems.bio/neurips_2021/ OpenProblems-NeurIPS2021 Single-Cell Multimodal Data Integration] wins the first place in the task of modality prediction.
+- [09/2021] Our paper [https://openreview.net/forum?id=hfkER_KJiNw Graph Neural Networks with Adaptive Residual] is accepted by NeurIPS 2021.
 
 
 == Recent Publications 
