@@ -20,6 +20,7 @@ My research interests include, but not limited to the following areas:
 - Applying graph representation learning to scientific domains, e.g., single cell, spatial transcriptomics
 
 == News
+- [05/2023] Our work [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] is accepted by ACL 2023.
 - [05/2023] I am invited to serve as the PC member for CIKM 2023.
 - [04/2023] Preprint [https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1 SpatialCTD: a large-scale TME spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology]
 - [03/2023] I am invited to serve as the PC member for NeurIPS 2023.
@@ -64,6 +65,10 @@ My research interests include, but not limited to the following areas:
 
 
 === Conference / Journal Publications
+- [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] \n
+  Juanhui Li, Harry Shomer, *Jiayuan Ding*, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. \n
+  *ACL 2023*
+
 - [https://openreview.net/forum?id=Lnxl5pr018 Empowering Graph Representation Learning with Test-Time Graph Transformation] \n
   Wei Jin, Tong Zhao, *Jiayuan Ding*, Yozen Liu, Jiliang Tang, Neil Shah. \n
   *ICLR 2023*
