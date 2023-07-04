@@ -19,6 +19,10 @@ My research interests include, but not limited to the following areas:
 - Knowledge Graph
 - Applying graph representation learning to scientific domains, e.g., single cell, spatial transcriptomics
 
+== Open-Source Projects
+- DANCE: A Deep Learning Library and Benchmark Platform for Single-Cell Analysis \n
+[https://github.com/OmicsML/dance Github] [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 Paper] [https://arxiv.org/abs/2210.12385 Survey]
+
 == News
 - [06/2023] I am invited to serve as the PC member for WSDM 2024.
 - [05/2023] Our work [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] is accepted by ACL 2023.
