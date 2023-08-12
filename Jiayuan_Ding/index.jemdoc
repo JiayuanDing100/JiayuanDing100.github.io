@@ -24,6 +24,7 @@ My research interests include, but not limited to the following areas:
 [https://github.com/OmicsML/dance Github],  [https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2 Paper],  [https://arxiv.org/abs/2210.12385 Survey],  [https://github.com/OmicsML/awesome-deep-learning-single-cell-papers Reading List]
 
 == News
+- [08/2023] Our work [https://arxiv.org/abs/2303.00233 Single-Cell Multimodal Prediction via Transformers] is accepted by CIKM 2023.
 - [07/2022] I am invited to serve as the PC member for AAAI 2024.
 - [06/2023] I am invited to serve as the PC member for WSDM 2024.
 - [05/2023] Our work [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] is accepted by ACL 2023.
@@ -54,9 +55,6 @@ My research interests include, but not limited to the following areas:
 - [https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1 SpatialCTD: a large-scale TME spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology] \n
   *Jiayuan Ding*, Julian Venegas, Qiaolin Lu, Yixin Wang and others \n
 
-- [https://arxiv.org/abs/2303.00233 Single-Cell Multimodal Prediction via Transformers] \n
-  Wenzhuo Tang\*, Hongzhi Wen\*, Renming Liu\*, *Jiayuan Ding*, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang \n
-
 - [https://arxiv.org/abs/2302.03038 Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation] \n
   Hongzhi Wen, Wenzhuo Tang, Wei Jin, *Jiayuan Ding*, Renming Liu, Feng Shi, Yuying Xie, Jiliang Tang \n
 
@@ -71,6 +69,10 @@ My research interests include, but not limited to the following areas:
 
 
 === Conference / Journal Publications
+- [https://arxiv.org/abs/2303.00233 Single-Cell Multimodal Prediction via Transformers] \n
+  Wenzhuo Tang\*, Hongzhi Wen\*, Renming Liu\*, *Jiayuan Ding*, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang \n
+  *CIKM 2023*
+
 - [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] \n
   Juanhui Li, Harry Shomer, *Jiayuan Ding*, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. \n
   *ACL 2023*
