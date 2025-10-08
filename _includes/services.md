@@ -85,12 +85,6 @@
   <li><b>2023:</b> ICML, NeurIPS, KDD, WSDM, AAAI, CIKM</li>
   <li><b>2022:</b> NeurIPS, CIKM</li>
   <li><b>2021:</b> CIKM</li>
-
-  <li><b>2024:</b> ICLR</li>
-  <li><b>2023:</b> ICML, ICLR, NeurIPS, KDD, MLSys, WWW, LoG</li>
-  <li><b>2022:</b> ICML, ICLR, NeurIPS, KDD, LoG, AAAI, IJCAI, WSDM, CIKM</li>
-  <li><b>2021:</b> ICML, NeurIPS, CIKM, WWW, AAAI</li>
-  <li><b>2020:</b> NeurIPS, CIKM, ICONIP</li>
 </ul>
 
 <h4 style="margin: 10px 0 6px; color: #1A3A6E; font-weight: 600;">External Reviewers</h4>
