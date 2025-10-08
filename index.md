@@ -12,10 +12,10 @@ I am currently a Staff Research Scientist at [Hippocratic AI](https://www.hippoc
 
 ## Research Interest
 
-- **Deep Learning on Graphs:**
+- **Deep Learning on Graphs**
+- **Large Language Models (LLMs)** 
 - **AI for Healthcare**
 - **AI for Science (single-cell, multi-omics, spatial)**
-- **Large Language Models (LLMs)** 
 
 
 ## Professional Affiliations
