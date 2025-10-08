@@ -67,18 +67,21 @@
  -->
 
 
-
 <h1 id="services"></h1>
+
 <h2 style="margin: 40px 0px 6px; font-weight: 600;">Services</h2>
+
 <h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Program Committee Members & Conference Reviewer</h4>
-<ul style="list-style-type: none; margin: 0 0 10px 0; padding: 0; line-height: 1.0;">
-  <li style="margin: 0; padding: 0;"><b>2026:</b> ICLR, WWW, WSDM, AISTATS</li>
-  <li style="margin: 0; padding: 0;"><b>2025:</b> ICML, NeurIPS, KDD, AISTATS, WSDM</li>
-  <li style="margin: 0; padding: 0;"><b>2024:</b> ICML, NeurIPS, ICLR, KDD, WSDM, AAAI, CIKM</li>
-  <li style="margin: 0; padding: 0;"><b>2023:</b> ICML, NeurIPS, KDD, WSDM, AAAI, CIKM</li>
-  <li style="margin: 0; padding: 0;"><b>2022:</b> NeurIPS, CIKM</li>
-  <li style="margin: 0; padding: 0;"><b>2021:</b> CIKM, hello</li>
-</ul>
+<div style="margin: 0 0 10px 0; padding: 0; line-height: 1;">
+
+  <div style="margin: 0; padding: 0;"><b>2026:</b> ICLR, WWW, WSDM, AISTATS</div>
+  <div style="margin: 0; padding: 0;"><b>2025:</b> ICML, NeurIPS, KDD, AISTATS, WSDM</div>
+  <div style="margin: 0; padding: 0;"><b>2024:</b> ICML, NeurIPS, ICLR, KDD, WSDM, AAAI, CIKM</div>
+  <div style="margin: 0; padding: 0;"><b>2023:</b> ICML, NeurIPS, KDD, WSDM, AAAI, CIKM</div>
+  <div style="margin: 0; padding: 0;"><b>2022:</b> NeurIPS, CIKM</div>
+  <div style="margin: 0; padding: 0;"><b>2021:</b> CIKM, hi</div>
+
+</div>
 
 <h4 style="margin: 10px 0 6px; color: #1A3A6E; font-weight: 600;">External Reviewers</h4>
 <p style="margin: 0 0 15px 0; line-height: 1.5;">
