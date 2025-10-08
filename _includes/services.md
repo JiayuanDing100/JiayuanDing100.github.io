@@ -73,6 +73,36 @@
 </p>
  -->
 
+
+<h2 style="color: #d0021b; font-weight: 800; margin: 40px 0 10px;">Service</h2>
+
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.7; padding-left: 10px;">
+
+  <li><b>Senior Program Committee Members:</b> IJCAI'2021, AAAI'2023, AAAI'2024</li>
+
+  <li><b>Program Committee Members:</b>
+    <ul style="list-style-type: none; margin: 6px 0 10px 0; padding-left: 0;">
+      <li><b>2024:</b> ICLR</li>
+      <li><b>2023:</b> ICML, ICLR, NeurIPS, KDD, MLSys, WWW, LoG</li>
+      <li><b>2022:</b> ICML, ICLR, NeurIPS, KDD, LoG, AAAI, IJCAI, WSDM, CIKM</li>
+      <li><b>2021:</b> ICML, NeurIPS, CIKM, WWW, AAAI</li>
+      <li><b>2020:</b> NeurIPS, CIKM, ICONIP</li>
+    </ul>
+  </li>
+
+  <li><b>External Reviewers:</b> KDD'2021, ICLR'2020, KDD'2020, ICML'2020, NeurIPS'2019, ASONAM'2019, CIKM'2019, ICWSM'2019, 
+  IJCAI'2019, SIGIR'2019, ASONAM'2018, CIKM'2018, KDD'2018, RecSys'2018, AAAI'2018, WWW'2018, SIGIR'2018, WSDM'2018</li>
+
+  <li><b>Conference Volunteers:</b> KDD'2022, ICLR'2021, ICML'2021, ICML'2020, WSDM'2018</li>
+
+  <li><b>Session Chair:</b> KDD'2022, SDM'2022, WWW'2021</li>
+
+  <li><b>University Service:</b> Committee Member on MSU Engineering College Advisory Council, 2021–2022</li>
+</ul>
+
+
+
+
 <h1 id="services"></h1>
 
 <h2 style="margin: 40px 0px 6px; font-weight: 600;">Services</h2>
