@@ -18,13 +18,11 @@ I am currently a Staff Research Scientist at [Hippocratic AI](https://www.hippoc
 - **AI for Science (single-cell, multi-omics, spatial)**
 
 
-## Professional Affiliations
+<!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
 - **The European Magnetism Association (EMA) Member**, 2021 - Present
+ -->
 
-<!-- ## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
 {% include_relative _includes/news.md %}
 
