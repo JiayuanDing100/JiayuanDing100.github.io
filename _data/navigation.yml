@@ -4,8 +4,8 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
+  - title: "Services"
+    url: ./#services
 
   - title: "Publications"
     url: ./#publications
