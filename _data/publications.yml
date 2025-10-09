@@ -50,5 +50,34 @@ main:
     pdf: https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1
     image: ./assets/files/dance2.jpg
 
+  - title: Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways
+    authors: <strong>Jiayuan Ding</strong>*, Qiaolin Lu*, Lingxiao Li, Yi Chang<sup>$</sup>
+    # conference_short: Software/Platform for Single-Cell
+    conference: Briefings in Bioinformatics'25
+    pdf: https://academic.oup.com/bib/article/26/1/bbaf020/7990577
+    image: ./assets/files/focus.jpg
+
+  - title: SpatialCTD A Large-Scale Tumor Microenvironment Spatial Transcriptomic Dataset to Evaluate Cell Type Deconvolution for Immuno-Oncology
+    authors: <strong>Jiayuan Ding</strong>*, Lingxiao Li*, Qiaolin Lu*, Julian Venegas, Yixin Wang, Lidan Wu, Wei Jin, Hongzhi Wen, Renming Liu, Wenzhuo Tang, Zhaoheng Li, Wangyang Zuo, Yi Chang, Yu Leo Lei, Patrick Danaher<sup>$</sup>, Yuying Xie<sup>$</sup>, Jiliang Tang<sup>$</sup>
+    # conference_short: Software/Platform for Single-Cell
+    conference: Journal of Computational Biology'24
+    pdf: https://www.liebertpub.com/doi/10.1089/cmb.2024.0532
+    image: ./assets/files/spatialctd.jpg
+
+  - title: Graph neural networks for multimodal single-cell data integration
+    authors: <strong>Jiayuan Ding</strong>*, Hongzhi Wen*, Wei Jin*, Yiqi Wang, Yuying Xie, Jiliang Tang
+    # conference_short: Software/Platform for Single-Cell
+    conference: KDD'21
+    pdf: https://dl.acm.org/doi/10.1145/3534678.3539213
+    image: ./assets/files/scmognn.jpg
+
+  - title: Mem-GAN A Pseudo Membrane Generator for Single-cell Imaging in Fluorescent Microscopy
+    authors: <strong>Jiayuan Ding</strong>*, Yixin Wang*, Lidan Wu, Aster Wardhani, Patrick Danaher, Wenzhuo Tang, Hongzhi Wen, Qiaolin Lu, Yi Chang, Yu Leo Lei, Jiliang Tang, Yuying Xie
+    # conference_short: Software/Platform for Single-Cell
+    conference: BIOKDD'25
+    pdf: https://www.biorxiv.org/content/10.1101/2023.11.08.566343v2.abstract
+    image: ./assets/files/memgan.jpg
+
+
 
 
