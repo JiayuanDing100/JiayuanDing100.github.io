@@ -26,12 +26,16 @@ I am currently a Staff Research Scientist at [Hippocratic AI](https://www.hippoc
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/contact.md %}
+
+
 
 
