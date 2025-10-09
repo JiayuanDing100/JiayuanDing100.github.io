@@ -13,7 +13,7 @@ main:
 
   - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
     authors: <strong>Jiayuan Ding</strong>*, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
-    conference_short: NeurIPS'25
+    conference_short: Foundation Model for Single-Cell
     conference: NeurIPS'25
     pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
     # page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
@@ -21,6 +21,13 @@ main:
     image: ./assets/files/tabula.jpg
     # citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     # notes: Published
+
+  - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
+    authors: <strong>Jiayuan Ding</strong>*, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
+    conference_short: NeurIPS'25
+    conference: NeurIPS'25
+    pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
+    image: ./assets/files/tabula.jpg
 
   - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
     authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
