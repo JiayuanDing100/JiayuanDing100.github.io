@@ -2,7 +2,8 @@
 
 <h1 id="awards"></h1>
 
-<h2 style="color: #d0021b; font-weight: 800; margin: 40px 0 20px;">Awards</h2>
+<h2 style="margin: 40px 0px 6px; font-weight: 600;">Awards</h2>
+<!-- <h2 style="color: #d0021b; font-weight: 800; margin: 40px 0 20px;">Awards</h2> -->
 
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
   <div style="margin: 0; padding: 0;"> Engineering Distinguished Scholar, MSU, 2025 </div>
