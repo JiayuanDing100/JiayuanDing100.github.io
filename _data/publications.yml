@@ -23,28 +23,28 @@ main:
     # notes: Published
 
   - title: CellPLM pre-training of cell language model beyond single cells
-    authors:  Hongzhi Wen*, Wenzhuo Tang*, Xinnan Dai, <strong>Jiayuan Ding</strong>, Wei Jin, Yuying Xie, Jiliang Tang
+    authors: Hongzhi Wen*, Wenzhuo Tang*, Xinnan Dai, <strong>Jiayuan Ding</strong>, Wei Jin, Yuying Xie, Jiliang Tang
     conference_short: Foundation Model for Single-Cell
     conference: ICLR'24
     pdf: https://openreview.net/forum?id=BKXvPDekud
     image: ./assets/files/cellplm.jpg
 
-  - title: scLinguist: A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics
-    authors:  Zhaoyu Fang*, Ziyang Miao*, Jianhui Lin, Yuying Xie, Jiliang Tang<sup>$</sup>, <strong>Jiayuan Ding</strong><sup>$</sup>, Min Li<sup>$</sup>
+  - title: scLinguist A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics
+    authors: Zhaoyu Fang*, Ziyang Miao*, Jianhui Lin, Yuying Xie, Jiliang Tang<sup>$</sup>, <strong>Jiayuan Ding</strong><sup>$</sup>, Min Li<sup>$</sup>
     conference_short: Foundation Model for Single-Cell
     conference: Under review
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.30.679123v1
     image: ./assets/files/sclinguist.jpg
 
-  - title: scLinguist: DANCE a deep learning library and benchmark platform for single-cell analysis
-    authors:  <strong>Jiayuan Ding</strong>*, Renming Liu*, Hongzhi Wen*, Wenzhuo Tang, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Yixin Wang, Qiaolin Lu, Lingxiao Li, Wangyang Zuo, Yi Chang, Yuying Xie, Jiliang Tang
+  - title: DANCE a deep learning library and benchmark platform for single-cell analysis
+    authors: <strong>Jiayuan Ding</strong>*, Renming Liu*, Hongzhi Wen*, Wenzhuo Tang, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Yixin Wang, Qiaolin Lu, Lingxiao Li, Wangyang Zuo, Yi Chang, Yuying Xie, Jiliang Tang
     conference_short: Software/Platform for Single-Cell
     conference: Genome Biology'24
     pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z
     image: ./assets/files/dance1.jpg
 
-  - title: scLinguist: DANCE 2.0 Transforming single-cell analysis from black box to transparent workflow
-    authors:  <strong>Jiayuan Ding</strong>*, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
+  - title: DANCE 2.0 Transforming single-cell analysis from black box to transparent workflow
+    authors: <strong>Jiayuan Ding</strong>*, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
     conference_short: Software/Platform for Single-Cell
     conference: Under review
     pdf: https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1
