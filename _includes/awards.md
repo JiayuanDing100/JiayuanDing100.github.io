@@ -14,10 +14,10 @@
   <div style="margin: 0; padding: 0;"> Jiangsu Provincial Government Scholarship (top 2%), 2014 </div>
   <div style="margin: 0; padding: 0;"> Outstanding Student Leader (top 5%), 2014 </div>
   <div style="margin: 0; padding: 0;"> Jingwen Zhu Scholarship (top 2%), 2014 </div>
-  <div style="margin: 0; padding: 0;"> National Scholarship (top 0.3%), Ministry of Education of the People's Republic of China, 2014 </div>
-  <div style="margin: 0; padding: 0;"> National Scholarship (top 0.3%), Ministry of Education of the People's Republic of China, 2013 </div>
-  <div style="margin: 0; padding: 0;"> First-class Scholarship(top 5%), 2014 </div>
-  <div style="margin: 0; padding: 0;"> First-class Scholarship(top 5%), 2013 </div>
+  <div style="margin: 0; padding: 0;"> National Scholarship, Ministry of Education of the People's Republic of China (top 0.3%), 2014 </div>
+  <div style="margin: 0; padding: 0;"> National Scholarship, Ministry of Education of the People's Republic of China (top 0.3%), 2013 </div>
+  <div style="margin: 0; padding: 0;"> First-class Scholarship (top 5%), 2014 </div>
+  <div style="margin: 0; padding: 0;"> First-class Scholarship (top 5%), 2013 </div>
 
 </div>
 
