@@ -22,40 +22,33 @@ main:
     # citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     # notes: Published
 
-  - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
-    authors: <strong>Jiayuan Ding</strong>*, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
-    conference_short: NeurIPS'25
-    conference: NeurIPS'25
-    pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
-    image: ./assets/files/tabula.jpg
+  - title: CellPLM pre-training of cell language model beyond single cells
+    authors:  Hongzhi Wen*, Wenzhuo Tang*, Xinnan Dai, <strong>Jiayuan Ding</strong>, Wei Jin, Yuying Xie, Jiliang Tang
+    conference_short: Foundation Model for Single-Cell
+    conference: ICLR'24
+    pdf: https://openreview.net/forum?id=BKXvPDekud
+    image: ./assets/files/cellplm.jpg
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
-    citation: sf-0AGoAAAAJ:qjMakFHDy7sC
-    notes: Published
+  - title: scLinguist: A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics
+    authors:  Zhaoyu Fang*, Ziyang Miao*, Jianhui Lin, Yuying Xie, Jiliang Tang<sup>$</sup>, <strong>Jiayuan Ding</strong><sup>$</sup>, Min Li<sup>$</sup>
+    conference_short: Foundation Model for Single-Cell
+    conference: Under review
+    pdf: https://www.biorxiv.org/content/10.1101/2025.09.30.679123v1
+    image: ./assets/files/sclinguist.jpg
 
-  - title: Controlling Magneto‐Ionics by Defect Engineering Through Light Ion Implantation
-    authors: Zheng Ma, Sofia Martins, Zhengwei Tan, Song Chen, Elmer Monteblanco, Maciej Liedke, Maik Butterling, Ahmed G Attallah, Eric Hirschmann, Andreas Wagner, Alberto Quintana, Eva Pellicer, Dafiné Ravelosona, Jordi Sort, Enric Menéndez
-    conference_short: AFM
-    conference: AFM
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202312827
-    page: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202312827
-    image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
-    citation: sf-0AGoAAAAJ:Tyk-4Ss8FVUC
-    notes: Published
+  - title: scLinguist: DANCE a deep learning library and benchmark platform for single-cell analysis
+    authors:  <strong>Jiayuan Ding</strong>*, Renming Liu*, Hongzhi Wen*, Wenzhuo Tang, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Yixin Wang, Qiaolin Lu, Lingxiao Li, Wangyang Zuo, Yi Chang, Yuying Xie, Jiliang Tang
+    conference_short: Software/Platform for Single-Cell
+    conference: Genome Biology'24
+    pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z
+    image: ./assets/files/dance1.jpg
 
-  - title: Tuning of perpendicular magnetic anisotropy in Bi-substituted yttrium iron garnet films by He+ ion irradiation
-    authors: Sreeveni Das, Rhodri Mansell, Lukáš Flajšman, Lide Yao, Johannes W van der Jagt, Song Chen, Dafiné Ravelosona, Liza Herrera Diez, Sebastiaan van Dijken
-    conference_short: APR
-    conference: APR
-    pdf: https://arxiv.org/pdf/2410.04849
-    page: https://arxiv.org/pdf/2410.04849
-    image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
-    citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
-    notes: Published 
+  - title: scLinguist: DANCE 2.0 Transforming single-cell analysis from black box to transparent workflow
+    authors:  <strong>Jiayuan Ding</strong>*, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
+    conference_short: Software/Platform for Single-Cell
+    conference: Under review
+    pdf: https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1
+    image: ./assets/files/dance2.jpg
+
+
+

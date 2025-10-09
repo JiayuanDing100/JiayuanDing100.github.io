@@ -16,7 +16,9 @@ If the publication has citation information available, it is displayed within a 
 The code is written in Markdown and is intended to be used in a website or web page to display a list of publications.
 
 -->
-<h1 id="publications"></h1>
+
+
+<!-- <h1 id="publications"></h1>
 
 <h2 style="margin: 30px 0px -15px;">
   Selected Publications 
@@ -28,6 +30,20 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 
 <p style="font-size:14px; color:#555; margin: 5px 0 20px 0;">
+  <em>* equal contribution,&nbsp;&nbsp; $ corresponding author</em>
+</p>
+ -->
+
+<h1 id="publications"></h1>
+
+<h2 style="margin: 30px 0px 0px;">
+  Selected Publications 
+  <span style="font-size:15px;">[</span>
+  <a href="https://scholar.google.com/citations?user=V2M7On0AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
+  <span style="font-size:15px;">]</span>
+</h2>
+
+<p style="font-size:14px; color:#555; margin: 6px 0 20px 0; line-height:1.3;">
   <em>* equal contribution,&nbsp;&nbsp; $ corresponding author</em>
 </p>
 
