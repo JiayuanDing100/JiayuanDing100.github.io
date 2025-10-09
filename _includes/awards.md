@@ -8,7 +8,7 @@
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
   <div style="margin: 0; padding: 0;"> Engineering Distinguished Scholar, MSU, 2025 </div>
   <div style="margin: 0; padding: 0;"> Engineering Distinguished Scholar, MSU, 2024 </div>
-  <div style="margin: 0; padding: 0;"> NeurIPS 2022 Competition: Multimodal Single-Cell Integration Across Time, Individuals, and Batches, 2022 </div>
+  <div style="margin: 0; padding: 0;"> NeurIPS 2022 Competition: Multimodal Single-Cell Integration Across Time, Individuals, and Batches - Silver Medal in Kaggle, Top 2% ≈ 24/1266, 2022 </div>
   <div style="margin: 0; padding: 0;"> NeurIPS 2021 Competition: Multimodal Single-Cell Data Integration, 1st Place, 2021 </div>
   <div style="margin: 0; padding: 0;"> Excellent Graduation Paper (top 2.5%), 2015 </div>
   <div style="margin: 0; padding: 0;"> Jiangsu Provincial Government Scholarship (top 2%), 2014 </div>
