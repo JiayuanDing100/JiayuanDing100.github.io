@@ -4,16 +4,18 @@
 
 <h2 style="color: #d0021b; font-weight: 800; margin: 40px 0 20px;">Awards</h2>
 
-<ul style="margin-left: 20px; line-height: 1.8; list-style-type: square;">
+<div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
 
-  <li>NSF CAREER Award, 2025</li>
-  <li>AAAI New Faculty Highlights, 2025</li>
-  <li>CMI Ideation Award, NCSU, 2024</li>
-  <li>National AI Research Resource Pilot Award, 2024</li>
-  <li>Amazon Research Award, 2023</li>
-  <li>ACM SIGKDD Outstanding Dissertation Award (1st Runner-Up), 2023</li>
-  <li>Data Science Academy Award, NCSU, 2023</li>
+  <div style="margin: 0; padding: 0;"> ICLR, WWW, WSDM, AISTATS</div>
 
-</ul>
 
+
+  <div style="margin: 0; padding: 0;"> Engineering Distinguished Scholar, MSU, 2025 </div>
+  <div style="margin: 0; padding: 0;"> Engineering Distinguished Scholar, MSU, 2024 </div>
+  <div style="margin: 0; padding: 0;"> ICML, NeurIPS, ICLR, KDD, WSDM, AAAI, CIKM</div>
+  <div style="margin: 0; padding: 0;"> ICML, NeurIPS, KDD, WSDM, AAAI, CIKM</div>
+  <div style="margin: 0; padding: 0;"> NeurIPS, CIKM</div>
+  <div style="margin: 0; padding: 0;"> CIKM</div>
+
+</div>
 
