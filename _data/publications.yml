@@ -11,7 +11,7 @@ main:
   #   citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
   #   notes: Published
 
-  - title: Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
+  - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
     authors: <strong>Jiayuan Ding</strong>*, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
     # conference_short: Adv. Mater. Interfaces
     conference: NeurIPS'25
