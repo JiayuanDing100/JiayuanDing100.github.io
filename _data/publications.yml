@@ -12,7 +12,7 @@ main:
   #   notes: Published
 
   - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
-    authors: <strong>Jiayuan Ding</strong>*, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
+    authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
     conference_short: Foundation Model for Single-Cell
     conference: NeurIPS'25
     pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
@@ -37,14 +37,14 @@ main:
     image: ./assets/files/sclinguist.jpg
 
   - title: DANCE a deep learning library and benchmark platform for single-cell analysis
-    authors: <strong>Jiayuan Ding</strong>*, Renming Liu*, Hongzhi Wen*, Wenzhuo Tang, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Yixin Wang, Qiaolin Lu, Lingxiao Li, Wangyang Zuo, Yi Chang, Yuying Xie, Jiliang Tang
+    authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Renming Liu*, Hongzhi Wen*, Wenzhuo Tang, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Yixin Wang, Qiaolin Lu, Lingxiao Li, Wangyang Zuo, Yi Chang, Yuying Xie, Jiliang Tang
     conference_short: Software/Platform for Single-Cell
     conference: Genome Biology'24
     pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z
     image: ./assets/files/dance1.jpg
 
   - title: DANCE 2.0 Transforming single-cell analysis from black box to transparent workflow
-    authors: <strong>Jiayuan Ding</strong>*, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
+    authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
     conference_short: Software/Platform for Single-Cell
     conference: Under review
     pdf: https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1
