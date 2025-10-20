@@ -67,9 +67,16 @@ main:
   - title: Graph neural networks for multimodal single-cell data integration
     authors: <strong>Jiayuan Ding</strong>*, Hongzhi Wen*, Wei Jin*, Yiqi Wang, Yuying Xie, Jiliang Tang
     # conference_short: Software/Platform for Single-Cell
-    conference: KDD'21 (<span style='color:red;'>NeurIPS 2021 Competition Multimodal Single-Cell Data Integration, 1st Place</span>)
+    conference: KDD'22 (<span style='color:red;'>NeurIPS 2021 Competition</span> Multimodal Single-Cell Data Integration, <span style='color:red;'>1st Place</span>)
     pdf: https://dl.acm.org/doi/10.1145/3534678.3539213
     image: ./assets/files/scmognn.jpg
+
+  - title: Single-cell multimodal prediction via transformers
+    authors: Wenzhuo Tang, Hongzhi Wen, Renming Liu, <strong>Jiayuan Ding</strong>, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang
+    # conference_short: Software/Platform for Single-Cell
+    conference: CIKM'23 (<span style='color:red;'>NeurIPS 2022 Competition</span> Multimodal Single-Cell Integration Across Time, Individuals, and Batches, <span style='color:red;'>Silver Medal in Kaggle</span>, Top 2% ≈ 24/1266)
+    pdf: https://dl.acm.org/doi/10.1145/3583780.3615061
+    image: ./assets/files/cikm.jpg
 
   - title: Mem-GAN A Pseudo Membrane Generator for Single-cell Imaging in Fluorescent Microscopy
     authors: <strong>Jiayuan Ding</strong>*, Yixin Wang*, Lidan Wu, Aster Wardhani, Patrick Danaher, Wenzhuo Tang, Hongzhi Wen, Qiaolin Lu, Yi Chang, Yu Leo Lei, Jiliang Tang, Yuying Xie
