@@ -14,7 +14,8 @@ main:
   - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
     authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
     conference_short: Foundation Model for Single-Cell
-    conference: NeurIPS'25 (Preparing an extended version for submission to Nature by the end of 2025)
+    conference: NeurIPS'25 
+    (<span style="color:red;">Preparing an extended version for submission to Nature by the end of 2025</span>)
     pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
     # page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
     # bibtex: ./assets/files/magnetoionic.txt
