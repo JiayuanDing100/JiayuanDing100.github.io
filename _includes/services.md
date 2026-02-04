@@ -98,10 +98,15 @@
   KDD'2021, ICML'2021
 </p>
 
-<h4 style="margin: 10px 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
-<p style="margin: 0 0 15px 0; line-height: 1.5;">
-  NeurIPS'2025 – AI4Science
-</p>
+<h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
+<div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
+  <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
+  <div style="margin: 0; padding: 0;">WSDM'2026 - Session Chair</div>
+  <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science Workshop</div>
+
+</div>
+
+
 
 
 
