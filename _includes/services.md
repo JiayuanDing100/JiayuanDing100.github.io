@@ -102,7 +102,7 @@
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
   <div style="margin: 0; padding: 0;">ICML'2026 – AI4Science </div>
   <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
-  <div style="margin: 0; padding: 0;">WSDM'2026 - Session Chair</div>
+  <div style="margin: 0; padding: 0;">WSDM'2026 – Session Chair</div>
   <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science </div>
 
 </div>
