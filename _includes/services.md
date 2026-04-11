@@ -71,6 +71,16 @@
 
 <h2 style="margin: 40px 0px 6px; font-weight: 600;">Services</h2>
 
+<h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
+<div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
+  <div style="margin: 0; padding: 0;">ICML'2026 – AI4Science </div>
+  <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
+  <div style="margin: 0; padding: 0;">WSDM'2026 – Session Chair</div>
+  <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science </div>
+
+</div>
+
+
 <h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Program Committee Members & Conference Reviewers</h4>
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
 
@@ -98,14 +108,7 @@
   KDD'2021, ICML'2021
 </p>
 
-<h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
-<div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
-  <div style="margin: 0; padding: 0;">ICML'2026 – AI4Science </div>
-  <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
-  <div style="margin: 0; padding: 0;">WSDM'2026 – Session Chair</div>
-  <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science </div>
 
-</div>
 
 
 
