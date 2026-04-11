@@ -74,7 +74,7 @@
 <h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Program Committee Members & Conference Reviewers</h4>
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
 
-  <div style="margin: 0; padding: 0;"><b>2026:</b> ICLR, WWW, WSDM, AISTATS</div>
+  <div style="margin: 0; padding: 0;"><b>2026:</b> ICLR, WWW, WSDM, AISTATS, ACL, CIKM</div>
   <div style="margin: 0; padding: 0;"><b>2025:</b> ICML, NeurIPS, KDD, AISTATS, WSDM</div>
   <div style="margin: 0; padding: 0;"><b>2024:</b> ICML, NeurIPS, ICLR, KDD, WSDM, AAAI, CIKM</div>
   <div style="margin: 0; padding: 0;"><b>2023:</b> ICML, NeurIPS, KDD, WSDM, AAAI, CIKM</div>
@@ -100,9 +100,10 @@
 
 <h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
+  <div style="margin: 0; padding: 0;">ICML'2026 – AI4Science </div>
   <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
   <div style="margin: 0; padding: 0;">WSDM'2026 - Session Chair</div>
-  <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science Workshop</div>
+  <div style="margin: 0; padding: 0;">NeurIPS'2025 – AI4Science </div>
 
 </div>
 
