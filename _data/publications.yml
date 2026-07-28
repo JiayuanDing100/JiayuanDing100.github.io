@@ -11,10 +11,18 @@ main:
   #   citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
   #   notes: Published
 
+
+  - title: Predictive Single Cell Foundation Model for Gene Regulation and Aging with Privacy-Preserving Tabular Learning
+    authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Jianhui Lin<sup>$</sup>, Ziyang Miao<sup>$</sup>, Nils Mechtel<sup>$</sup>, Shiyu Jiang, Yixin Wang, Zhaoyu Fang, Jorge D. Martin-Rufino, Chen Weng, Reuben Saunders, Weize Xu, Jonathan S. Weissman, Min Li*, Jiliang Tang*, Wei Ouyang*, Yuancheng Ryan Lu*, Xiaojie Qiu*
+    conference_short: Foundation Model for Single-Cell
+    conference: Under review
+    pdf: https://www.researchsquare.com/article/rs-10274933/v1
+    image: ./assets/files/tabula_nature.jpg
+
   - title: Tabula A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
     authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Jianhui Lin*, Shiyu Jiang*, Yixin Wang, Ziyang Miao, Zhaoyu Fang, Jiliang Tang<sup>$</sup>, Min Li<sup>$</sup>, Xiaojie Qiu<sup>$</sup>
     conference_short: Foundation Model for Single-Cell
-    conference: NeurIPS'25 (Preparing an extended version for submission to <span style='color:red;'>Nature</span> by the end of 2025)
+    conference: NeurIPS'25
     pdf: https://openreview.net/forum?id=Vk2sfKAdeu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)
     # page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
     # bibtex: ./assets/files/magnetoionic.txt
@@ -32,7 +40,7 @@ main:
   - title: scLinguist A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics
     authors: Zhaoyu Fang*, Ziyang Miao*, Jianhui Lin, Yuying Xie, Jiliang Tang<sup>$</sup>, <strong>Jiayuan Ding</strong><sup>$</sup>, Min Li<sup>$</sup>
     conference_short: Foundation Model for Single-Cell
-    conference: Under review at <span style='color:red;'>Nature Biomedical Engineering</span>
+    conference: Under review
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.30.679123v1
     image: ./assets/files/sclinguist.jpg
 
@@ -46,7 +54,7 @@ main:
   - title: DANCE 2.0 Transforming single-cell analysis from black box to transparent workflow
     authors: <strong>Jiayuan Ding</strong>*<sup>$</sup>, Zhongyu Xing*, Yixin Wang*, Renming Liu, Sheng Liu, Zhi Huang, Wenzhuo Tang, Yuying Xie, James Zou, Xiaojie Qiu, Jian Ma<sup>$</sup>, Guoxian Yu<sup>$</sup>, Jiliang Tang<sup>$</sup>
     conference_short: Software/Platform for Single-Cell
-    conference: Under review at <span style='color:red;'>Nature Methods</span>
+    conference: Under review
     pdf: https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1
     image: ./assets/files/dance2.jpg
 

@@ -4,6 +4,10 @@
 
 <ul>
 
+<li><strong>[July. 2026]</strong> Excited to share that the <span style="color:#e74d3c"><a href="https://genai4health.github.io/2026-NeurIPS/">Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential</a></span> has been accepted by <span style="color:#e74d3c"><strong>NeurIPS 2026</strong></span>, and the <span style="color:#e74d3c">Call for Papers</span> is now open!</li>
+<li><strong>[July. 2026]</strong> Excited to share that <span style="color:#e74d3c"><a href="https://jiayuanding100.github.io/">The Virtual Embryo Challenge: Generative Modeling of Embryogenesis Across Space, Scale and Time</a></span> has been accepted as the <span style="color:#e74d3c"><strong>NeurIPS 2026 Competition</strong></span>!</li>
+<li><strong>[June. 2026]</strong> Honored to be invited to serve as an Area Chair for KDD'27-AI4Science</li>
+<li><strong>[May. 2026]</strong> Honored to be invited to serve as a Session Chair for WWW'26</li>
 <li><strong>[April. 2026]</strong> Excited to share that the <span style="color:#e74d3c"><a href="https://kdd26scisocllm.github.io/">KDD'26 Workshop on SciSoc Agents & LLMs: Agentic AI for Scientific and Societal Advances</a> (Call for Papers)</span> is now open for paper submissions.</li>
 <li><strong>[April. 2026]</strong> Honored to be invited to serve as an Area Chair for ICML'26-AI4Science</li>
 <li><strong>[April. 2026]</strong> Invited to serve as a PC Member for CIKM'26</li>

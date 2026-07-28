@@ -73,6 +73,7 @@
 
 <h4 style="margin: 0 0 6px; color: #1A3A6E; font-weight: 600;">Area Chair</h4>
 <div style="margin: 0 0 10px 0; padding: 0; line-height: 1.15;">
+  <div style="margin: 0; padding: 0;">KDD'2027 – AI4Sciences Track </div>
   <div style="margin: 0; padding: 0;">ICML'2026 – AI4Science </div>
   <div style="margin: 0; padding: 0;">KDD'2026 – AI4Sciences Track </div>
   <div style="margin: 0; padding: 0;">WSDM'2026 – Session Chair</div>
