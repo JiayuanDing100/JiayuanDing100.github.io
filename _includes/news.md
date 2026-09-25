@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[Sep. 2026]</strong> <span style="color:#e74d3c"><strong>NeurIPS 2026 × 5!</strong></span> Excited to share that our contributions this year include two research papers, one benchmark and dataset paper, one competition, and one workshop. Congratulations to all coauthors and collaborators!</li>
+<li><strong>[Sep. 2026]</strong> <strong style="color:#e74d3c !important;">NeurIPS 2026 × 5!</strong> Excited to share that our contributions this year include two research papers, one benchmark and dataset paper, one competition, and one workshop. Congratulations to all coauthors and collaborators!</li>
 <li><strong>[July. 2026]</strong> Excited to share that the <span style="color:#e74d3c"><a href="https://genai4health.github.io/2026-NeurIPS/">Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential</a></span> has been accepted by <span style="color:#e74d3c"><strong>NeurIPS 2026</strong></span>, and the <span style="color:#e74d3c">Call for Papers</span> is now open!</li>
 <li><strong>[July. 2026]</strong> Excited to share that <span style="color:#e74d3c"><a href="https://jiayuanding100.github.io/">The Virtual Embryo Challenge: Generative Modeling of Embryogenesis Across Space, Scale and Time</a></span> has been accepted as the <span style="color:#e74d3c"><strong>NeurIPS 2026 Competition</strong></span>!</li>
 <li><strong>[June. 2026]</strong> Honored to be invited to serve as an Area Chair for KDD'27-AI4Science</li>
